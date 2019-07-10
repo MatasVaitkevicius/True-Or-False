@@ -1,0 +1,4 @@
+#Wed Jul 10 17:53:47 EEST 2019
+base.0=D\:\\AndroidStudioProjects\\quizzler-flutter-challenge-starting-master\\quizzler-flutter-challenge-starting-master\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
